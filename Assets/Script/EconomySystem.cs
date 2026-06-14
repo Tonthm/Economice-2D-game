@@ -172,6 +172,7 @@ public class EconomySystem : MonoBehaviour
     public bool CanBuildMonument(float monumentCost)
     {
         return playerGold >= monumentCost && reliability >= 70f;
+        GameManager.Instance?.GameOver();
     }
 
     // ============================================================
