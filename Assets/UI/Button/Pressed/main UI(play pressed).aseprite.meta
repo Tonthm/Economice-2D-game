@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a6826916d68d2ab43b1f14a3d97de002
+guid: 2b5c6e891142810498ec05db59d8be68
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Frame_1
+  - name: main UI(play pressed)
     originalName: 
-    pivot: {x: 0.4915254, y: -0.07272727}
+    pivot: {x: 0.49572653, y: -0.30952382}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 118
-      height: 55
-    spriteID: fbeef9c4396f1374da2e02935ab38a25
+      width: 117
+      height: 42
+    spriteID: ff0a2fa229124764fb7e3d6fcd60aa42
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -148,60 +148,30 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Frame_0
-    originalName: 
-    pivot: {x: 0.4915254, y: -0.07272727}
-    alignment: 9
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 67
-      width: 118
-      height: 55
-    spriteID: d04c613f0f763bd4fb81766b515e6b01
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 67}
   spriteSheetImportData: []
   tileSetImportData: []
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 3950210278
+      value0: 4050300980
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: main menu button
+    name: main UI(play pressed)
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Frame_1
-      frameIndex: 1
-      additiveSortOrder: 0
-      cellRect:
-        x: 6
-        y: 4
-        width: 118
-        height: 55
-      spriteId: fbeef9c4396f1374da2e02935ab38a25
-    - name: Frame_0
+    - name: main UI(play pressed)
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
         x: 6
-        y: 4
-        width: 118
-        height: 55
-      spriteId: d04c613f0f763bd4fb81766b515e6b01
+        y: 13
+        width: 117
+        height: 42
+      spriteId: ff0a2fa229124764fb7e3d6fcd60aa42
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -212,4 +182,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 128, y: 64}
-  previousTextureSize: {x: 128, y: 128}
+  previousTextureSize: {x: 128, y: 64}
