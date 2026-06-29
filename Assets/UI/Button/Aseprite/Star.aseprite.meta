@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b62e80d8f6a326f47a19af8c4d14c6f7
+guid: af32918911996324c80c01943165bcf4
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main UI(option pressed)
+  - name: Star
     originalName: 
-    pivot: {x: 0.5, y: -0.1590909}
+    pivot: {x: 0.5294118, y: -0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 168
-      height: 44
-    spriteID: 5c3d84a9de1a6a74abb6ed73c2b97adf
+      width: 17
+      height: 16
+    spriteID: 39dd79fdfb2131b4bb404b4c9d47cf04
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 1868454139
+      value0: 2671154310
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Main UI(option pressed)
+    name: Star
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main UI(option pressed)
+    - name: Star
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 2
-        y: 7
-        width: 168
-        height: 44
-      spriteId: 5c3d84a9de1a6a74abb6ed73c2b97adf
+        x: 7
+        y: 8
+        width: 17
+        height: 16
+      spriteId: 39dd79fdfb2131b4bb404b4c9d47cf04
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 172, y: 64}
-  previousTextureSize: {x: 256, y: 64}
+  canvasSize: {x: 32, y: 32}
+  previousTextureSize: {x: 32, y: 32}

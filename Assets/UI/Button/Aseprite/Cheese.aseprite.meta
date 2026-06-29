@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a25319ab2d2ddc24f9b98f7274c82ce5
+guid: 8bd0fc0db358e984d922a69e13bd6271
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main UI(quit)
+  - name: Cheese
     originalName: 
-    pivot: {x: 0.49572653, y: -0.17021276}
+    pivot: {x: 0.46428573, y: -0.11538462}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 117
-      height: 47
-    spriteID: b69ecec998f8384419abb990eb59849b
+      width: 28
+      height: 26
+    spriteID: 6bf62b0ba2f2476419e754b7513f186d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 1677658471
+      value0: 1326298449
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: Main UI(quit)
+    name: Cheese
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main UI(quit)
+    - name: Cheese
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 6
-        y: 8
-        width: 117
-        height: 47
-      spriteId: b69ecec998f8384419abb990eb59849b
+        x: 3
+        y: 3
+        width: 28
+        height: 26
+      spriteId: 6bf62b0ba2f2476419e754b7513f186d
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 128, y: 64}
-  previousTextureSize: {x: 128, y: 64}
+  canvasSize: {x: 32, y: 32}
+  previousTextureSize: {x: 64, y: 64}

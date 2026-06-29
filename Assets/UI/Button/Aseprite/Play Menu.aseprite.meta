@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8e34ed6b254306847875832970699777
+guid: 3a4d705817d03fa4287f7cf83d4ab889
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -127,9 +127,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: main UI(play)
+  - name: Play Menu
     originalName: 
-    pivot: {x: 0.49572653, y: -0.17021276}
+    pivot: {x: 0.5, y: -0.3125}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -137,9 +137,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 117
-      height: 47
-    spriteID: 70e94062bdc5949488714fea7fd0b245
+      width: 190
+      height: 240
+    spriteID: 769913c10267979468f7aaf9d218308f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -153,25 +153,25 @@ ScriptedImporter:
   asepriteLayers:
   - layerIndex: 0
     uuid:
-      value0: 1915659578
+      value0: 709875747
       value1: 0
       value2: 0
       value3: 0
     guid: 0
-    name: main UI(play)
+    name: Play Menu
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: main UI(play)
+    - name: Play Menu
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 6
-        y: 8
-        width: 117
-        height: 47
-      spriteId: 70e94062bdc5949488714fea7fd0b245
+        x: 9
+        y: 75
+        width: 190
+        height: 240
+      spriteId: 769913c10267979468f7aaf9d218308f
     linkedCells: []
     tileCells: []
     tileSetIndex: 0
@@ -181,5 +181,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 128, y: 64}
-  previousTextureSize: {x: 128, y: 64}
+  canvasSize: {x: 208, y: 320}
+  previousTextureSize: {x: 256, y: 256}
